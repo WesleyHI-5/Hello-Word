@@ -1,1 +1,8 @@
-
+p {
+color: #7fffd4;
+}
+ul {
+color: black;
+width: 10px;
+line-height: 1px;
+}
