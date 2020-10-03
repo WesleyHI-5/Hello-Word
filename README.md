@@ -1,4 +1,2 @@
 # Hello-Word
-Apenas para teste 
-Eu sou apenas um vestibulando que não se decide o que quer como carreira profissional e se sente presionado pelos pais 
-Como vcs estao
+Bom. esse site visa a colaboração de todos os amantes de animais e pessoas que tem alma, para um único e simples propósito ajudar a diminuir os casos de abandono de animas  
